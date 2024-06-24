@@ -10,6 +10,7 @@
     </div>
 </body>
 
-| S. No. | Project Name | Link |
-| ------ | ------------ | ------- |
-| 1      | CSS Combiners|[🔗](https://codepen.io/yashksaini/pen/dyEKPQN)
+| No.| Project Name | Link |
+| ---| ------------ | ------- |
+| 1  | CSS Combiners|[🔗](https://codepen.io/yashksaini/pen/dyEKPQN)|
+| 2  | CSS Positioning|[🔗](https://codepen.io/yashksaini/pen/oNRyXJd6)|
