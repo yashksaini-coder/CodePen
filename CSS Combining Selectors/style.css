@@ -1,0 +1,26 @@
+/* //element selector */
+h1, h2{
+    color: blueviolet;
+}
+
+/* //universal selector */
+.box > p{
+    color: firebrick;
+}
+
+/* //descendant selector */
+.box li{ 
+    color: blue;
+}
+
+/* chaining */
+li.done{
+    color: seagreen;
+}
+/* combining css combiners*/
+
+ul > p.done{
+    font-size: 0.5rem;
+}
+
+
