@@ -1,0 +1,28 @@
+div {
+    display: inline-block; /* this will make the cat and dog divs appear side by side */
+    width: 40%;
+  }
+
+  p {
+    font-size: 2em;
+  }
+
+  .cat {
+    float: left; /* this will make the cat div appear on the left side of the dog div */
+    background-color: aquamarine;
+  }
+
+  .dog {
+    float: right; /* this will make the dog div appear on the right side of the cat div */
+    background-color: coral;
+  }
+
+  img {
+    float: left; /* this will make the image appear on the left side of the text */
+  }
+
+  footer {
+    clear: both; /* this will make the footer appear below the cat and dog divs */
+    text-align: center;
+    background-color: blueviolet;
+  }
