@@ -1,0 +1,24 @@
+p {
+    color: white;
+  }
+
+  .red {
+    display: block; /* 1st type of display */
+    width: 200px;
+    height: 200px;
+    background-color: red;
+  }
+
+  .green {
+    display: inline; /* 2nd type of display */
+    width: 200px;
+    height: 200px;
+    background-color: green;
+  }
+
+  .blue {
+    display: inline-block; /* 3rd type of display */
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+  }
