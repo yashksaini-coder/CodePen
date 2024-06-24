@@ -15,3 +15,4 @@
 | 1  | CSS Combiners|[🔗](https://codepen.io/yashksaini/pen/dyEKPQN)|
 | 2  | CSS Positioning|[🔗](https://codepen.io/yashksaini/pen/oNRyXJd6)|
 | 3  | CSS India Flag|[🔗](https://codepen.io/yashksaini/pen/MWdXeYp)|
+| 3  | CSS Display|[🔗](https://codepen.io/yashksaini/pen/LYorZGJ)|
