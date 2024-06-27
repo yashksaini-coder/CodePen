@@ -59,7 +59,7 @@ footer {
 
   .card {
     width: 100%;
-    display: block;
+    display: inline-block;
     margin-bottom: 30px;
     text-align: justify;
   }
