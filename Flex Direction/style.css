@@ -3,11 +3,11 @@
   border: 5px solid gold;
   display: flex;
   flex-direction: column;
-  flex-basis: 100px;
+  /* flex-basis: 100px;  */ /* not inteded for the parent container*/
 }
 
 *{
-    flex-basis: 100px;
+    flex-basis: 100px;  /* intended for the children */
 }
 
 .red {
