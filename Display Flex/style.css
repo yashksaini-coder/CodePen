@@ -1,0 +1,16 @@
+p {
+    padding: 0;
+    margin: 0;
+    font-weight: 700;
+}
+
+li {
+    list-style: none;
+}
+
+.container {
+    padding: 10px;
+    background-color: gold;
+    display: flex;
+    gap: 10px;
+}
