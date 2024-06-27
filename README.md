@@ -22,10 +22,11 @@
 | 7  | Flexbox Display|[🔗](https://codepen.io/yashksaini/pen/mdYgvav)|
 | 8  | Flexbox Direction|[🔗](https://codepen.io/yashksaini/pen/MWdRLdp)|
 
-<img src="assets/rainbow-superthin.webp" >
+<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" alt="graph.gif" >
 
 | No.| Resource Name| Link    |
 | ---|:------------:|-------:|
 | 1  | CSS Flexbox Poster|[🔗](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png)|
 
 
+:sparkles:
