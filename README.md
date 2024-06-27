@@ -18,3 +18,4 @@
 | 3  | CSS Display|[🔗](https://codepen.io/yashksaini/pen/LYorZGJ)|
 | 4  | CSS Float|[🔗](https://codepen.io/yashksaini/pen/gOJKMRO#)|
 | 5  | CSS Media Query|[🔗](https://codepen.io/yashksaini/pen/QWRPzeo)|
+| 6  | Web Design Agency project|[🔗](https://codepen.io/yashksaini/pen/xxNeMLrQWRPzeo)|
