@@ -22,7 +22,7 @@
 | 7  | Flexbox Display|[🔗](https://codepen.io/yashksaini/pen/mdYgvav)|
 | 8  | Flexbox Direction|[🔗](https://codepen.io/yashksaini/pen/MWdRLdp)|
 
-<img src="./assets/rainbow-superthin.webp">
+<img src="assets/rainbow-superthin.webp" >
 
 | No.| Resource Name| Link    |
 | ---|:------------:|-------:|
