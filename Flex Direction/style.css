@@ -6,7 +6,8 @@
   /* flex-basis: 100px;  */ /* not inteded for the parent container*/
 }
 
-*{
+/* selecting only the sub child div of the Container Div */
+.container > *{
     flex-basis: 100px;  /* intended for the children */
 }
 
