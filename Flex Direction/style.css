@@ -1,0 +1,33 @@
+.container {
+  color: white;
+  border: 5px solid gold;
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100px;
+}
+
+*{
+    flex-basis: 100px;
+}
+
+.red {
+  background-color: #eb4d4b;
+}
+.orange {
+  background-color: #f0932b;
+}
+.yellow {
+  background-color: #f6e58d;
+}
+.green {
+  background-color: #6ab04c;
+}
+.blue {
+  background-color: #4834d4;
+}
+.indigo {
+  background-color: #30336b;
+}
+.purple {
+  background-color: #be2edd;
+}
