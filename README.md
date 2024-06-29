@@ -21,6 +21,9 @@
 | 6  | Web Design Agency project|[🔗](https://codepen.io/yashksaini/pen/xxNeMLrQWRPzeo)|
 | 7  | Flexbox Display|[🔗](https://codepen.io/yashksaini/pen/mdYgvav)|
 | 8  | Flexbox Direction|[🔗](https://codepen.io/yashksaini/pen/MWdRLdp)|
+| 9  | Flexbox Pricing Table Project|[🔗](https://codepen.io/yashksaini/pen/YzboKOa)|
+
+
 
 <img width="5000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" alt="graph.gif">
 
