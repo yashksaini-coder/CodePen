@@ -20,6 +20,8 @@
     </div>
 </body>
 
+<div align="center">
+
 | No.| Project Name| Link    |
 | ---|:------------:|-------:|
 | 1  | CSS Combiners|[🔗](https://codepen.io/yashksaini/pen/dyEKPQN)|
@@ -33,11 +35,8 @@
 | 8  | Flexbox Direction|[🔗](https://codepen.io/yashksaini/pen/MWdRLdp)|
 | 9  | Flexbox Pricing Table Project|[🔗](https://codepen.io/yashksaini/pen/YzboKOa)|
 
-
+</div>
 
 <img width="5000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" alt="graph.gif">
 
-| No.| Resource Name| Link    |
-| ---|:------------:|-------:|
-| 1  | CSS Flexbox Poster|[🔗](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png)|
-
+- [CSS Flexbox Poster](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png)
