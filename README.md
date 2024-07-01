@@ -8,17 +8,9 @@
    [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/yashsaini007)
 </div>
 
-<body style="display: flex; justify-content: center; align-items: center height: 100vh; margin: 0; background: #f0f0f0;">
-    <div style="text-align: center; background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%); padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-        <div style="background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); padding: 15px; border-radius: 10px; margin: 10px;">
-            <h1 style="color: #8A2BE2; font-size: 2rem; margin: 0;">
-            🎉🚀CodePen Collection 🎉🚀</h1>
-        </div>
-        <div style="background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); padding: 15px; border-radius: 10px; margin: 10px;">
-            <p style="color: #8A2BE2; font-size: 1.2rem;">This repository contains a collection of fun little web development codes and is used to showcase them. Every Day, I practice a specific concept or feature in web development in a playful and interactive way.</p>
-        </div>
-    </div>
-</body>
+This repository contains a collection of fun little web development codes and is used to showcase them. Every Day, I practice a specific concept or feature in web development in a playful and interactive way.
+
+&nbsp;
 
 <div align="center">
 
@@ -34,9 +26,10 @@
 | 7  | Flexbox Display|[🔗](https://codepen.io/yashksaini/pen/mdYgvav)|
 | 8  | Flexbox Direction|[🔗](https://codepen.io/yashksaini/pen/MWdRLdp)|
 | 9  | Flexbox Pricing Table Project|[🔗](https://codepen.io/yashksaini/pen/YzboKOa)|
+| 10 | Grid Display CHessboard|[🔗](https://codepen.io/yashksaini/pen/MWdNwMw)|
 
 </div>
 
-<img width="5000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" alt="graph.gif">
+<img width="5000rem" src="./assets/rainbow-superthin.webp" alt="graph.gif">
 
 - [CSS Flexbox Poster](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png)
