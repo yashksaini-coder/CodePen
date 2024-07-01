@@ -30,6 +30,6 @@ This repository contains a collection of fun little web development codes and is
 
 </div>
 
-<img width="5000rem" src="./assets/rainbow-superthin.webp" alt="graph.gif">
+<img width="5000rem" src="./assets/rainbow-superthin.webp">
 
 - [CSS Flexbox Poster](https://css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png)
