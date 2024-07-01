@@ -1,0 +1,19 @@
+.container{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    gap: 5px;
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.white{
+    background-color: #f0d9b5;
+}
+
+.black{
+    background-color: #b58863;
+}
