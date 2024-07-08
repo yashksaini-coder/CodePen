@@ -22,11 +22,12 @@ This repository contains a collection of fun little web development codes and is
 | 3  | CSS Display|[🔗](https://codepen.io/yashksaini/pen/LYorZGJ)|
 | 4  | CSS Float|[🔗](https://codepen.io/yashksaini/pen/gOJKMRO#)|
 | 5  | CSS Media Query|[🔗](https://codepen.io/yashksaini/pen/QWRPzeo)|
-| 6  | Web Design Agency project|[🔗](https://codepen.io/yashksaini/pen/xxNeMLrQWRPzeo)|
+| 6  | Web Design Agency project|[🔗](https://codepen.io/yashksaini/pen/xxNeMLr)|
 | 7  | Flexbox Display|[🔗](https://codepen.io/yashksaini/pen/mdYgvav)|
 | 8  | Flexbox Direction|[🔗](https://codepen.io/yashksaini/pen/MWdRLdp)|
 | 9  | Flexbox Pricing Table Project|[🔗](https://codepen.io/yashksaini/pen/YzboKOa)|
 | 10 | Grid Display CHessboard|[🔗](https://codepen.io/yashksaini/pen/MWdNwMw)|
+| 11 | Mondrian Painting Project|[🔗](https://codepen.io/yashksaini/pen/XWLWYEO)|
 
 </div>
 
