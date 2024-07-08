@@ -28,6 +28,7 @@ This repository contains a collection of fun little web development codes and is
 | 9  | Flexbox Pricing Table Project|[🔗](https://codepen.io/yashksaini/pen/YzboKOa)|
 | 10 | Grid Display CHessboard|[🔗](https://codepen.io/yashksaini/pen/MWdNwMw)|
 | 11 | Mondrian Painting Project|[🔗](https://codepen.io/yashksaini/pen/XWLWYEO)|
+| 12 | Bootstrap 101|[🔗](https://codepen.io/yashksaini/pen/QWXWxXx)|
 
 </div>
 
