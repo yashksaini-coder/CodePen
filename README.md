@@ -30,7 +30,7 @@ This repository contains a collection of fun little web development codes and is
 | 11 | Mondrian Painting Project|[🔗](https://codepen.io/yashksaini/pen/XWLWYEO)|
 | 12 | Bootstrap 101|[🔗](https://codepen.io/yashksaini/pen/QWXWxXx)|
 | 13 | Infinite Scroll Animation|[🔗](https://codepen.io/yashksaini/pen/mdZeJWg)
-
+| 14 | Bootstrap Components [Buttons]|[🔗](https://codepen.io/yashksaini/pen/vYqNXVj)|
 </div>
 
 <img width="5000rem" src="./assets/rainbow-superthin.webp">
