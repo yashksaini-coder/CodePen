@@ -1,0 +1,117 @@
+:root {
+  --red-rgb: 248 113 113;
+  --blue-rgb: 56 189 248;
+  --green-rgb: 74 222 128;
+  --yellow-rgb: 253 224 71;
+
+  --background-rgb: 0 0 0;
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(var(--background-rgb));
+  overflow: hidden;
+  perspective: 2000px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  width: 140rem;
+  aspect-ratio: 1;
+  display: grid;
+  grid-template-rows: repeat(40, 1fr);
+  grid-template-columns: repeat(40, 1fr);
+  position: absolute;
+  transform: rotateX(50deg) rotateY(-5deg) rotateZ(20deg) scale(1.25);
+}
+
+#container:after,
+#container:before {
+  content: "";
+  position: absolute;
+  inset: 0px;
+  pointer-events: none;
+}
+
+#container:before {
+  z-index: 2;
+  background-image: url("https://assets.codepen.io/1468070/plus-pattern-center.png");
+  background-size: 5%;
+  background-repeat: repeat;
+  opacity: 0.25;
+}
+
+#container:after {
+  z-index: 3;
+  background: radial-gradient(
+    circle,
+    transparent 25%,
+    rgb(var(--background-rgb)) 80%
+  );
+}
+
+.tile {
+  border: 1px solid rgb(255 255 255 / 25%);
+  transition: background-color 1500ms;
+}
+
+.tile:hover {
+  transition-duration: 0ms;
+}
+
+.tile:nth-child(4n):hover {
+  background-color: rgb(var(--red-rgb));
+}
+
+.tile:nth-child(4n + 1):hover {
+  background-color: rgb(var(--blue-rgb));
+}
+
+.tile:nth-child(4n + 2):hover {
+  background-color: rgb(var(--green-rgb));
+}
+
+.tile:nth-child(4n + 3):hover {
+  background-color: rgb(var(--yellow-rgb));
+}
+
+.tile:nth-child(7n):hover {
+  background-color: rgb(var(--blue-rgb));
+}
+
+.tile:nth-child(7n + 3):hover {
+  background-color: rgb(var(--green-rgb));
+}
+
+.tile:nth-child(7n + 5):hover {
+  background-color: rgb(var(--yellow-rgb));
+}
+
+.tile:nth-child(7n + 6):hover {
+  background-color: rgb(var(--red-rgb));
+}
+
+.tile:nth-child(11n + 1):hover {
+  background-color: rgb(var(--red-rgb));
+}
+
+.tile:nth-child(11n + 4):hover {
+  background-color: rgb(var(--blue-rgb));
+}
+
+.tile:nth-child(11n + 7):hover {
+  background-color: rgb(var(--green-rgb));
+}
+
+.tile:nth-child(11n + 10):hover {
+  background-color: rgb(var(--yellow-rgb));
+}
