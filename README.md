@@ -33,6 +33,7 @@
 | 13 | Infinite Scroll Animation|[🔗](https://codepen.io/yashksaini/pen/mdZeJWg)
 | 14 | Bootstrap Components [Buttons]|[🔗](https://codepen.io/yashksaini/pen/vYqNXVj)|
 | 15 | CSS Rainbow Tiles|[🔗](https://codepen.io/yashksaini/pen/eYwrOOV)|
+| 16 | Magic Hover Effect V1|[🔗](https://codepen.io/yashksaini/pen/xxojQJV)|
 </div>
 
 <img width="5000rem" src="./assets/rainbow-superthin.webp">
