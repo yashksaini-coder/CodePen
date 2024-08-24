@@ -34,6 +34,7 @@
 | 14 | Bootstrap Components [Buttons]|[🔗](https://codepen.io/yashksaini/pen/vYqNXVj)|
 | 15 | CSS Rainbow Tiles|[🔗](https://codepen.io/yashksaini/pen/eYwrOOV)|
 | 16 | Magic Hover Effect V1|[🔗](https://codepen.io/yashksaini/pen/xxojQJV)|
+| 17 | Matrix Text Effect|[🔗](https://codepen.io/yashksaini/pen/rNEvQZN)|
 </div>
 
 <img width="5000rem" src="./assets/rainbow-superthin.webp">
